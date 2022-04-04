@@ -40,7 +40,7 @@
 
 # Dell Invoice Reader
 ## Prerequisites:
-* Dell invoice from 2021 and later in **.pdf** format. **DO NOT** use any other formats
+* Dell invoice from 2019 and later in **.pdf** format. **DO NOT** use any other formats
 * python 3.8 or above installed on your computer, see https://www.python.org/doc/ on how to download and install python
 * Package module, pdfplumber, installed. See https://pypi.org/project/pdfplumber/ on how to download and install
 ## Set up and Run
